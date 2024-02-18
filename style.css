@@ -27,7 +27,7 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin: 1.5rem 2rem 0 0;
+  margin: 1rem 2rem 0 0;
 }
 
 .grid {
@@ -77,25 +77,6 @@ p {
   margin-bottom: -1rem;
 }
 @media (width < 700px) { .my-work { padding-bottom: .250rem; } }
-
-.contact-section {
-  line-height: 2.5rem;
-  margin-top: 1.5rem;
-}
-
-button {
-  color: white;
-  font-weight: 800;
-  background-color:#8072da;
-  border-style: none;
-  padding: 8px 16px;
-  border-radius: 6px;
-}
-
-.info-links a {
-  text-decoration: none;
-}
-
 
 
 @media (width < 700px) {
