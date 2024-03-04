@@ -45,11 +45,11 @@ img {
   width: 40rem;
   height: auto;
   border-radius: 6px;
-  transition: .150s ease;
+  transition: .250s ease;
 }
 
 img:hover {
-  transform: scale(1.04);
+  transform: scale(1.03);
 }
 @media (width > 1600px) {
   img { width: 50rem; }
